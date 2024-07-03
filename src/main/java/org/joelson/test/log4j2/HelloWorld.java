@@ -1,4 +1,4 @@
-package org.joelson.test.log4j;
+package org.joelson.test.log4j2;
 
 public class HelloWorld {
 
