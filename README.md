@@ -1,5 +1,5 @@
-# test-log4j
-Testing out log4j.
+# test-log4j2
+Testing out log4j 2.
 
 https://www.baeldung.com/java-logging-intro
 https://www.baeldung.com/java-log4j-properties-guide
